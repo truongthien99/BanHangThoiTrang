@@ -1,0 +1,48 @@
+{
+  "name": "projectsh",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/react-native-fontawesome": "^0.3.2",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-vector-icons/ionicons": "^7.3.1-alpha.9",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/material-bottom-tabs": "^6.2.28",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@react-navigation/stack": "^6.3.29",
+    "@rneui/base": "^4.0.0-rc.7",
+    "@rneui/themed": "^4.0.0-rc.8",
+    "expo": "^51.0.8",
+    "expo-image": "^1.12.9",
+    "expo-status-bar": "~1.11.1",
+    "firebase": "^10.12.1",
+    "link": "^2.1.1",
+    "react": "18.2.0",
+    "react-icons": "^5.2.1",
+    "react-native": "^0.73.6",
+    "react-native-bouncy-checkbox": "^4.0.1",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-paper": "^5.12.3",
+    "react-native-safe-area-context": "^4.10.1",
+    "react-native-svg": "^15.3.0",
+    "react-native-vector-icons": "^10.1.0",
+    "react-navigation-tabbar-collection": "^1.0.0",
+    "react-redux": "^9.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
